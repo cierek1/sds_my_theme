@@ -6,6 +6,7 @@
 */
 ?>
 <section class="carousel-container-sds">
+
     <!--start carousel  -->
         <div id="front-slider-<?php the_ID(); ?>" class="carousel slide carousel-fade sds-carousel-thumb" data-ride="carousel" data-interval="<?php echo get_theme_mod( 'sds_slider_speed' ) ?>">
     
